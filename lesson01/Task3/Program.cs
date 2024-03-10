@@ -1,6 +1,4 @@
-﻿using System.Xml;
-
-Console.WriteLine("Enter array length: ");
+﻿Console.WriteLine("Enter array length: ");
 int n = int.Parse(Console.ReadLine());
 int[] arr = new int[n];
 int count = 0;
