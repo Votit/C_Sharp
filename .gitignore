@@ -13,7 +13,7 @@
 *.userosscache
 *.sln.docstates
 *.sin
-C_Sharp.sin
+C_Sharp.sln
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
